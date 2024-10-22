@@ -1,0 +1,15 @@
+export type Category =
+  | "Airplane Single Engine Land"
+  | "Airplane Multi Engine Land"
+  | "Airplane Single Engine Sea"
+  | "Airplane Multi Engine Sea"
+  | "Rotorcraft Helicopter"
+  | "Rotorcraft Gyroplane"
+  | "Glider"
+  | "Lighter Than Air Airship"
+  | "Lighter Than Air Balloon"
+  | "Powered Lift"
+  | "Powered Parachute Land"
+  | "Powered Parachute Sea"
+  | "Weight Shift Control Land"
+  | "Weight Shift Control Sea";
