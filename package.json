@@ -1,0 +1,18 @@
+{
+  "name": "cleared-for-takeoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "spellcheck": "cspell '**/*.ts'",
+    "spellcheck:ui": "cspell 'ui/**/*.ts'",
+    "spellcheck:api": "cspell 'api/**/*.ts'",
+    "spellcheck:shared": "cspell 'shared/**/*.ts'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cspell": "^8.15.4"
+  }
+}
