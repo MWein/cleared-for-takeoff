@@ -7,8 +7,8 @@ export interface Aircraft {
   registration: string;
   gear: Gear;
   engine: Engine;
-  catagory: Category;
-  comblex: boolean;
+  category: Category;
+  complex: boolean;
   technicallyAdvancedAircraft: boolean;
   highPerformance: boolean;
   pressurized: boolean;
